@@ -1,6 +1,6 @@
 # Adaper Pattern
 
-N.B The following document is influenced by following this [article](https://deeprnd.medium.com/javascript-adapter-design-pattern-9652122c159d)
+N.B The following document is influenced by this [article](https://deeprnd.medium.com/javascript-adapter-design-pattern-9652122c159d)
 
 Adapter pattern is a design pattern that allows incompitable classes to work together by converting the interface of one class into another interface that client expect.
 Three components that are necessary to implement this desing pattern are:
